@@ -623,7 +623,7 @@ function App() {
                 Hall of Forgiveness
               </h1>
               <p className="text-xl md:text-2xl text-white/80 font-graphik-light">
-                Public confessions from souls seeking redemption
+                9o1daP8w7ax6aYQMFKsQYaanNZmADiafc1EvMerUr777
               </p>
             </div>
             
