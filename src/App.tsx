@@ -293,7 +293,7 @@ function App() {
               Certificate of Forgiveness
             </h1>
             <p className="text-xl md:text-2xl text-white/80 font-graphik-light">
-              Unburden your soul and receive divine forgiveness
+              9o1daP8w7ax6aYQMFKsQYaanNZmADiafc1EvMerUr777
             </p>
           </div>
 
