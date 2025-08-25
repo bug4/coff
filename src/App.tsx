@@ -251,7 +251,7 @@ function App() {
             Follow Us
           </button>
           <button
-            onClick={() => window.open('https://x.com/ForgivenessCert', '_blank')}
+            onClick={() => window.open('https://x.com/i/communities/1960103139304251405', '_blank')}
             className="flex items-center gap-2 px-4 py-2 rounded-full bg-blue-600 text-white hover:bg-blue-700 transition-all"
           >
             <Users size={16} />
